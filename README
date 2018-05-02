@@ -1,4 +1,4 @@
-# Soon
+# Soon™
 
 - Gestion des URL foireuses
 - Option d'ajout du vhost dans le /etc/hosts local (127.0.0.1  [vhost_name].local)
